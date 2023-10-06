@@ -1,0 +1,5 @@
+total number of questions: 1-14
+questions uploaded on github: 1-11
+questions remaining to upload on github: 12,13,14
+questions written on notebook: 1-11
+questions remaining to write on note: 12,13,14
